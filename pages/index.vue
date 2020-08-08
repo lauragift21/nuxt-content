@@ -9,7 +9,7 @@
       justify-content="center"
     >
       <CHeading text-align="center" mb="4">
-        ⚡️ Hello chakra-ui/vue
+        ⚡️ Hello chakra-ui/vue + Nuxt.js
       </CHeading>
       <CFlex justify="center" direction="column" align="center">
         <CBox mb="3">
